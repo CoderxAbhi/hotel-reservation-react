@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.75844288.css",
-    "main.js": "/static/js/main.16a15468.js",
-    "static/media/pexels-asad-photo-maldives-1268871.jpg": "/static/media/pexels-asad-photo-maldives-1268871.fadd7d5d9228fd41d8b8.jpg",
-    "static/media/dashboard.jpg": "/static/media/dashboard.173f8fcad9a37c78e99b.jpg",
-    "static/media/MyBookings.jpg": "/static/media/MyBookings.2f97481afd6db8db2ae9.jpg",
-    "static/media/error.jpg": "/static/media/error.0503b939429a8ae64757.jpg",
-    "static/media/room-3.jpeg": "/static/media/room-3.92fc5b83310c97eec345.jpeg",
-    "index.html": "/index.html",
-    "main.75844288.css.map": "/static/css/main.75844288.css.map",
-    "main.16a15468.js.map": "/static/js/main.16a15468.js.map"
+    "main.css": "/hotel-reservation-react/static/css/main.7b04c891.css",
+    "main.js": "/hotel-reservation-react/static/js/main.16a15468.js",
+    "static/media/pexels-asad-photo-maldives-1268871.jpg": "/hotel-reservation-react/static/media/pexels-asad-photo-maldives-1268871.fadd7d5d9228fd41d8b8.jpg",
+    "static/media/dashboard.jpg": "/hotel-reservation-react/static/media/dashboard.173f8fcad9a37c78e99b.jpg",
+    "static/media/MyBookings.jpg": "/hotel-reservation-react/static/media/MyBookings.2f97481afd6db8db2ae9.jpg",
+    "static/media/error.jpg": "/hotel-reservation-react/static/media/error.0503b939429a8ae64757.jpg",
+    "static/media/room-3.jpeg": "/hotel-reservation-react/static/media/room-3.92fc5b83310c97eec345.jpeg",
+    "index.html": "/hotel-reservation-react/index.html",
+    "main.7b04c891.css.map": "/hotel-reservation-react/static/css/main.7b04c891.css.map",
+    "main.16a15468.js.map": "/hotel-reservation-react/static/js/main.16a15468.js.map"
   },
   "entrypoints": [
-    "static/css/main.75844288.css",
+    "static/css/main.7b04c891.css",
     "static/js/main.16a15468.js"
   ]
 }
