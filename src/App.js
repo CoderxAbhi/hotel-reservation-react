@@ -25,7 +25,7 @@ function App() {
       <ToastContainer position='top-center'/>
         <Navbar/>
         <Routes>
-          <Route path="/" element={<Home/>} />
+          <Route path="/hotel-reservation-react" element={<Home/>} />
           <Route path="/login" element={<Login/>} />
           <Route path="/register" element={<Register/>} />
           <Route path="/user" element={<Privateroute/>}>
